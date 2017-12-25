@@ -2,5 +2,8 @@
 		pitches when they play the same composition. 
 
 2) How to implement : using music21 (a python-based toolkit for computer-aided musicology) - web.mit.edu/music21/doc/about/what.html
+- 12/24 : I'm hoping to test at least with using Jupyter Notebook to see how the streaming data from microphone works (testing pyaudio). Also hoping to capture/ store the data by playing different audios and compare the data. 
+- blockers : My original plan was to get the raw data from the speaker(or even from the microphone) but I'm not sure if I need to use an external soundcard to store the sound data. 
+- There's a .json database available for Classicalmusic but I am not sure if I want to use the string data.. or even just creating a scraper. I'm currently more interested in real time audio data. 
 
 

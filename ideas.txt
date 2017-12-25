@@ -3,4 +3,3 @@
 
 2) How to implement : using music21 (a python-based toolkit for computer-aided musicology) - web.mit.edu/music21/doc/about/what.html
 
-
